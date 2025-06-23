@@ -1,0 +1,12 @@
+Expression Recognition Metrics
+==================================================
+
+Overall Accuracy: 95.50%
+
+Per-Expression Accuracies:
+Angry: 100.00%
+Happy: 96.00%
+love: 93.00%
+Neutral: 85.00%
+Sad: 100.00%
+Suprise: 99.00%
